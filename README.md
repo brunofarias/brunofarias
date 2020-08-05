@@ -2,7 +2,7 @@
 ### Sou Front End Developer 
 
 :computer: Estudando no momento: ReactJS, Node.js, React Native & Typescript e tambem um pouco de desenvolvimento para games usando Unity
-💬  Sobre mim: Curto tecnologias, games e seriados
+<br/>💬  Sobre mim: Curto tecnologias, games e seriados
 
 📬 Contato:
 
