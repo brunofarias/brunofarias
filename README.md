@@ -4,7 +4,7 @@
 
 💻 Desenvolvimento para games usando Unity
 
-📚 Graduado: Sistemas de Informação
+📚 Graduado em Sistemas de Informação
 
 📬 Contatos:
 
