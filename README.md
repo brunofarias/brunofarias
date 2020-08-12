@@ -1,11 +1,11 @@
-## Olá pessoal 👋
+### Olá pessoal 👋
+
+## Sou Desenvolvedor, aluno e entusiasta.
 
 👨‍💻 Estudando no momento: ReactJS, Node.js, React Native & Typescript
-
-💻 Desenvolvimento para games usando Unity
-
+🕹️ Nas horas vagas estudando desenvolvimento para games usando Unity
 📚 Graduado em Sistemas de Informação
-
+🎮 Curto filmes, séries e games
 📬 Contatos:
 
 [![GitHub Bagde](https://img.shields.io/github/followers/brunofarias?label=follow&style=social)](https://github.com/brunofarias)
