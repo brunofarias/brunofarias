@@ -8,6 +8,7 @@
 - 🎮 Curto filmes, séries e games
 
 ### Conecte-se comigo:
-[![GitHub Bagde](https://img.shields.io/github/followers/brunofarias?label=follow&style=social)](https://github.com/brunofarias)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofarias82)](https://www.linkedin.com/in/brunofarias82)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:begfarias@gmail.com)](mailto:begfarias@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/brunofarias?labelColor=8257e5&color=8257e5&logo=github&label=Followers&logoColor=white&style=flat-square)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=8257e5&logo=Gmail&logoColor=white&link=mailto:begfarias@gmail.com)](mailto:begfarias@gmail.com)
+[![Linkedin Badge](img.shields.io/badge/LinkedIn-0077B5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofarias82/)](https://www.linkedin.com/in/brunofarias82/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/begfarias/)](https://www.instagram.com/begfarias/)
